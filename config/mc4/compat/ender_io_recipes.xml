@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+	<recipe name="Alloy: Chozodian" required="false">
+		<alloying energy="10000" exp="0.7">
+			<input name="dustGold,ingotGold" amount="4"/>
+			<input name="dustAluminum,ingotAluminum"/>
+			<input name="dustTitanium,ingotTitanium" amount="3"/>
+			<output name="ingotChozodian" amount="8"/>
+		</alloying>
+	</recipe>
+	<recipe name="Alloy: Red Chozodian" required="false">
+		<alloying energy="10000" exp="0.7">
+			<input name="dustChozodian,ingotChozodian"/>
+			<input name="dustRedstone" amount="3"/>
+			<input name="dustCopper,ingotCopper"/>
+			<output name="ingotChozodianRed" amount="5"/>
+		</alloying>
+	</recipe>
+	<recipe name="Alloy: Orange Chozodian" required="false">
+		<alloying energy="10000" exp="0.7">
+			<input name="dustChozodian,ingotChozodian" amount="2"/>
+			<input name="dustCordite,ingotCordite"/>
+			<output name="ingotChozodianOrange" amount="3"/>
+		</alloying>
+	</recipe>
+	<recipe name="Alloy: Purple Chozodian" required="false">
+		<alloying energy="10000" exp="0.7">
+			<input name="dustChozodianRed,ingotChozodianRed" amount="2"/>
+			<input name="dustMaldium,ingotMaldium"/>
+			<output name="ingotChozodianPurple" amount="3"/>
+		</alloying>
+	</recipe>
+	<recipe name="Sagmill: Dark Coal Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreCoalDark" />
+			<output name="minecraft:coal" amount="3" />
+			<output name="dustCoal" chance="0.06" />
+			<output name="gemDiamond" chance="0.001" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Iron Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreIronDark" />
+			<output name="POWDER_IRON" amount="2" />
+			<output name="dustTin" chance="0.05" required="false" />
+			<output name="dustNickel" chance="0.1" required="false" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Gold Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreGoldDark" />
+			<output name="dustGold" amount="2" />
+			<output name="dustCopper" chance="0.2" required="false" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Lapis Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreLapisDark" />
+			<output name="minecraft:dye:4" amount="8" />
+			<output name="minecraft:dye:4" chance="0.2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Diamond Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreDiamondDark" />
+			<output name="gemDiamond" amount="2" />
+			<output name="gemDiamond" chance="0.25" />
+			<output name="dustCoal" chance="0.05" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Emerald Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreEmeraldDark" />
+			<output name="gemEmerald" amount="2" />
+			<output name="gemEmerald" chance="0.25" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Redstone Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreRedstoneDark" />
+			<output name="dustRedstone" amount="8" />
+			<output name="dustRedstone" chance="0.2" />
+			<output name="itemSilicon" chance="0.8" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Nickel Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreNickelDark" />
+			<output name="dustNickel" amount="2" />
+			<output name="dustPlatinum" chance="0.1" required="false" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Copper Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreCopperDark" />
+			<output name="dustCopper" amount="2" />
+			<output name="dustGold" chance="0.125" required="false" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Aluminum Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreAluminumDark" />
+			<output name="dustAluminum" amount="2" />
+			<output name="dustIron" chance="0.1"/>
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Tin Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreTinDark" />
+			<output name="dustTin" amount="2" />
+			<output name="dustIron" chance="0.1"/>
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Silver Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreSilverDark" />
+			<output name="dustSilver" amount="2" />
+			<output name="dustLead" chance="0.1" required="false" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Tungsten Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreTungstenDark" />
+			<output name="dustTungsten" amount="2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Titanium Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreTitaniumDark" />
+			<output name="dustTitanium" amount="2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Radion Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreRadionDark" />
+			<output name="dustRadion" amount="2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Bendezium Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreBendeziumDark" />
+			<output name="dustBendezium" amount="2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Denzium Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreDenziumDark" />
+			<output name="dustDenzium" amount="2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+	<recipe name="Sagmill: Dark Maldium Ore" required="false">
+		<sagmilling energy="3600">
+			<input name="oreMaldiumDark" />
+			<output name="dustMaldium" amount="2" />
+			<output name="mc4:cobblestone:4" chance="0.15" />
+		</sagmilling>
+	</recipe>
+</recipes>

@@ -1,0 +1,14 @@
+priority=29
+priorityrandom=10
+
+
+buildinglimit=coal,32
+townhalllimit=coal,64
+
+sourceblockstate=minecraft:stone
+
+loot=coal,1
+
+sentencekey=mining
+
+range=4

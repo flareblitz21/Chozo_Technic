@@ -1,0 +1,96 @@
+name=Village d'artisans
+icon=timberframecross
+weight=10
+carriesraid=true
+qualifier=les-mines
+qualifier=la-forge
+hillQualifier=les-collines
+mountainQualifier=la-montagne
+desertQualifier=le-désert
+forestQualifier=la-fôret
+lavaQualifier=le-volcan
+lakeQualifier=le-lac
+oceanQualifier=l'océan
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=eucalyptus forest
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathslabs
+
+//starting buildings=
+centre=guildhouse
+start=carpenterhouse
+start=grove
+start=lumbermanhut
+start=quarry
+start=farm
+
+player=gifthouse
+player=playerestate
+player=playerhugefield
+player=playerlargefield
+player=playerlargehouse
+player=playersmallfield
+player=playersmallhouse
+
+//to be built in priority
+core=church
+core=forge
+core=fountain
+core=glassblower
+core=cattlefarm
+core=inn
+core=lumbermanhut
+core=grove
+core=quarry
+
+//to be built after the core ones
+secondary=alchemyworkshop
+secondary=archives
+secondary=armoury
+secondary=guardhouse
+secondary=presbytery
+secondary=tavern
+secondary=watchtower
+secondary=weaverhouse
+secondary=smallorchard
+
+//never for this type of village
+never=bakery
+never=well
+never=pigfarm
+never=sheepchickenfarm
+never=largefountain
+
+//Selling prices=
+sellingPrice=stone,3
+sellingPrice=glass,3
+sellingPrice=wool_white,13
+
+buyingPrice=wool_white,11
+buyingPrice=stone,2
+buyingPrice=glass,2
+
+//Millénaire Extended
+start=fonderie

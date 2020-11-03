@@ -1,0 +1,5 @@
+sells=beefcooked,cooked_mutton,fishcooked,chickenmeatcooked,ayran,yogurt,pide,helva,lokum,pistachios,apple
+buys=yogurt,egg,wheat,sugar
+buysoptional=apple,pistachios,beefcooked,chickenmeatcooked,cooked_mutton,fishcooked,egg,fishraw,chickenmeat,mutton,beefraw
+
+deliverto=bread,yogurt,sugar,wheat,apple,pistachios,beefcooked,chickenmeatcooked,cooked_mutton,fishcooked,egg,fishraw,chickenmeat,mutton,beefraw

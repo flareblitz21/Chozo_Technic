@@ -1,0 +1,14 @@
+priority=28
+priorityrandom=10
+
+
+buildinglimit=arditeore,64
+townhalllimit=arditeore,50
+
+sourceblockstate=minecraft:stone
+
+loot=arditeore,1
+
+sentencekey=mining
+
+range=4

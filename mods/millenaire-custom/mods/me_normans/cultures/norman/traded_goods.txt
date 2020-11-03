@@ -1,0 +1,67 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation,  desc code for the help screen
+
+//Minecraft
+bookshelves,200,50,8,16, 0,false,,0
+coal,10,4,0,80,8,false,,0
+gold,400,30,0,8,350,false,,0
+dye_blue,100,16,0,16,90,false,,0
+redstone,80,3,0,32,70,false,,0
+diamond,4096,50,0,4,3000,false,,0
+emerald,3000,45,0,2,98,false,,0
+quartz,20,6,0,16,18,false,,0
+leatherHelmet,22*5,50,0,0, 0,false,,0,tradehelp.genericweapon
+leatherChest,22*8,80,0,0, 0,false,,0,tradehelp.genericweapon
+leatherLegs,22*7,70,0,0, 0,false,,0,tradehelp.genericweapon
+leatherBoots,22*4,50,0,0, 0,false,,0,tradehelp.genericweapon
+steelHelmet,30*5,20*5,0,0,8*25,false,,0,tradehelp.genericweapon
+steelChest,30*8,20*8,0,0,10*25,false,,0,tradehelp.genericweapon
+steelLegs,30*7,20*7,0,0,9*25,false,,0,tradehelp.genericweapon
+steelBoots,30*4,20*4,0,0,6*25,false,,0,tradehelp.genericweapon
+goldhelmet,715,120,0,0,187,false,,0
+goldchest,1144,200,0,0,1360,false,,0
+goldlegs,1001,180,0,0,1309,false,,0
+goldboots,572,130,0,0,748,false,,0
+diamondHelmet,16000,300,0,0, 5*20*64,false,,0,tradehelp.genericweapon
+diamondChest,32000,500,0,0, 8*20*64,false,,0,tradehelp.genericweapon
+diamondLegs,28000,450,0,0, 7*20*64,false,,0,tradehelp.genericweapon
+diamondBoots,20000,325,0,0, 4*20*64,false,,0,tradehelp.genericweapon
+woodsword,2,1,0,0,5,false,,0
+stoneSword,3,2,0,0,0,false,,0,tradehelp.genericweapon
+steelSword,25*2,20*2,0,0,3*25,false,,0,tradehelp.genericweapon
+goldsword,810,60,0,0,0,false,,0
+diamondSword,8000,1000,0,0,0,false,,0,tradehelp.genericweapon
+bottle,5,3,16,64,0,false,,0,crafting
+netherwart,32,16,16,64,0,false,,0,crafting
+akwardpotion,48,24,16,64,0,false,,0,crafting
+glowstonedust,32,16,16,64,0,false,,0
+fermentedspidereye,64,32,32,64,50,false,,0
+gunpowder,16,8,32,64,10,false,,0
+dragonbreath,4096,2048,32,64,3000,false,,0
+sugar,6,3,32,64,4,false,,0
+rabbitfoot,64,32,32,64,40,false,,0
+glisteringmelonslice,64,32,32,64,50,false,,0
+spidereye,16,8,32,64,10,false,,0
+pufferfish,16,8,32,64,10,false,,0
+magmacream,64,32,32,64,50,false,,0
+goldencarrot,64,32,32,64,40,false,,0
+blazepowder,32,16,32,64,20,false,,0
+ghasttear,32,16,32,64,30,false,,0
+leather,20,10,16,64,25,false,,0
+
+//Tinker's Construct
+seared_brick,5,3,10,32,64,false,,0
+seared_bricks,20,17,32,64,22,false,,0
+smeltery_controller,40,35,0,0,43,false,,0
+seared_tank,42,36,0,0,45,false,,0
+smeltery_drain,30,21,0,0,32,false,,0
+faucet,15,8,0,0,17,false,,0
+castingchannel,16,9,0,0,18,false,,0
+casting_table,35,20,0,0,37,false,,0
+casting_basin,35,20,0,0,37,false,,0
+cobaltingot,3000,120,0,0,90,false,,0
+arditeingot,4000,140,0,0,90,false,,0
+manyullyningot,10000,400,0,0,180,false,,0
+knightslimeingot,60,50,0,0,55,false,,0
+pigironingot,58,47,0,0,52,false,,0
+beefjerky,30,15,32,64,20,false,,0
+grout,20,10,32,64,15,false,,0

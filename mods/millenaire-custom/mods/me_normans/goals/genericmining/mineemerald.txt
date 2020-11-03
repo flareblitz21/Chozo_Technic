@@ -1,0 +1,14 @@
+priority=25
+priorityrandom=10
+
+
+buildinglimit=emerald,5
+townhalllimit=emerald,10
+
+sourceblockstate=minecraft:stone
+
+loot=emerald,1
+
+sentencekey=mining
+
+range=4

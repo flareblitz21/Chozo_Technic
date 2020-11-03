@@ -1,0 +1,14 @@
+priority=25
+priorityrandom=10
+
+
+buildinglimit=diamond,5
+townhalllimit=diamond,10
+
+sourceblockstate=minecraft:stone
+
+loot=diamond,1
+
+sentencekey=mining
+
+range=4

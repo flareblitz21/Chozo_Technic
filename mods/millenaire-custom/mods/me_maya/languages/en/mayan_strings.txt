@@ -1,0 +1,7 @@
+//*   Name of the villager types
+//*   Empty for the Indians in French since the original are already in French
+//* 
+//* 
+
+villager.mayan_tinkerer=Tinkerer
+shop.tinkerershop=Tinker's Materials

@@ -1,0 +1,5 @@
+sells=bottle,akwardpotion,netherwart,redstone,glowstonedust,fermentedspidereye,gunpowder,dragonbreath,sugar,rabbitfoot,glisteringmelonslice,spidereye,pufferfish,magmacream,goldencarrot,blazepowder,ghasttear
+
+buys=bottle,akwardpotion,netherwart,redstone,glowstonedust,fermentedspidereye,gunpowder,dragonbreath,sugar,rabbitfoot,glisteringmelonslice,spidereye,pufferfish,magmacream,goldencarrot,blazepowder,ghasttear
+
+deliverto=glass

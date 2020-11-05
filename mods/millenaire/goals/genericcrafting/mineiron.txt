@@ -1,9 +1,0 @@
-buildingTag=ironmine
-priority=25
-duration=500
-
-heldItems=ironore
-
-output=ironnugget,1
-
-sound=stone

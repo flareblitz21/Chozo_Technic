@@ -1,3 +1,0 @@
-sells=seljukscimitar,seljukbow,bow,arrow,seljukturban,seljukhelmet,seljukplate,seljuklegs,seljukboots,leatherhelmet,leatherchest,leatherlegs,leatherboots
-buys=iron,ironnugget,leather,wool_white
-buysoptional=ironore

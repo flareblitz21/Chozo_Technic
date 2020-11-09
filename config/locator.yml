@@ -7,9 +7,9 @@
 
 # Spawner renderer
 spawners:
-  enable: true
+  enable: false
   default:
-    enable: true
+    enable: false
     code: Default
     short:
       distance: 1.5
@@ -32,7 +32,7 @@ spawners:
       outlineEdgeWidth: 1.0
       outlineEdgeColor: '0x80_82_00_AF'
   blaze:
-    enable: true
+    enable: false
     code: Blaze
     short:
       distance: 1.5

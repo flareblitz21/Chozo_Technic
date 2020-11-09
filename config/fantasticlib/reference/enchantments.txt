@@ -39,11 +39,11 @@ openblocks:last_stand
 openblocks:flim_flam
 endercore:autosmelt
 endercore:xpboost
+enderio:repellent
+enderio:soulbound
 enderio:witherweapon
 enderio:witherarrow
 enderio:shimmer
-enderio:repellent
-enderio:soulbound
 gravestone-extended:gs_vampiric_touch
 gravestone-extended:gs_poisoned_blade
 gravestone-extended:gs_withered_blade

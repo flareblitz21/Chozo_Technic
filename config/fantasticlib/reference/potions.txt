@@ -26,6 +26,7 @@ minecraft:levitation
 minecraft:luck
 minecraft:unluck
 biomesoplenty:curse
+ic2:radiation
 thaumcraft:fluxtaint
 thaumcraft:visexhaust
 thaumcraft:infectiousvisexhaust

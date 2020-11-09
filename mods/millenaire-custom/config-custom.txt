@@ -2,6 +2,9 @@
 auto_convert_profiles=false
 
 //; 
+generate_hamlets=false
+
+//; 
 generate_travel_book_export=false
 
 //; 
@@ -14,15 +17,12 @@ generate_help_data=false
 ignore_resource_cost=false
 
 //Unique random identifier to count unique players if statistics are enabled
-random_uid=8777021083500485632
+random_uid=1725493676311290880
 
 //Advancement completed for anonymous statistics
-advancements_creative=explorer
+advancements_creative=
 
 //Advancement completed for anonymous statistics
-advancements_survival=explorer
+advancements_survival=
 
-//; 
-generate_hamlets=false
-
-validation=346190917
+validation=346190835

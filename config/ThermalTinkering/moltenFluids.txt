@@ -16,11 +16,6 @@ end_steel                                         (enderio:block_fluid_end_steel
 construction_alloy                                (enderio:block_fluid_construction_alloy)                                         = Molten Iron Alloy
 fierymetal                                        (twilightforest:molten_fierymetal)                                               = Molten Fiery
 knightmetal                                       (twilightforest:molten_knightmetal)                                              = Molten Knightmetal
-liquid_phazon                                     (mc4:liquid_phazon)                                                              = Liquid Phazon
-chozodian                                         (mc4:liquid_chozodian)                                                           = Molten Chozodian Compound
-chozodian_red                                     (mc4:liquid_red_chozodian)                                                       = Molten Red Chozodian Compound
-chozodian_orange                                  (mc4:liquid_orange_chozodian)                                                    = Molten Orange Chozodian Compound
-chozodian_purple                                  (mc4:liquid_purple_chozodian)                                                    = Molten Purple Chozodian Compound
 obsidian                                          (tconstruct:molten_obsidian)                                                     = Molten Obsidian
 iron                                              (tconstruct:molten_iron)                                                         = Molten Iron
 pigiron                                           (tconstruct:molten_pigiron)                                                      = Molten Pigiron

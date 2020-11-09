@@ -1,0 +1,106 @@
+name=Village militaire
+icon=normanbroadsword
+weight=10
+carriesraid=true
+qualifier=le-fort
+hillQualifier=les-collines
+mountainQualifier=la-montagne
+desertQualifier=le-désert
+forestQualifier=la-fôret
+lavaQualifier=le-volcan
+lakeQualifier=le-lac
+oceanQualifier=l'océan
+
+//Vanilla biomes
+biome=Plains
+biome=Sunflower Plains
+biome=Extreme Hills+
+biome=Extreme Hills+ M
+
+//biomes o' plenty
+biome=brushland
+biome=chaparral
+biome=eucalyptus forest
+biome=grassland
+biome=meadow
+biome=orchard
+biome=seasonal forest
+
+//Traverse biomes
+biome=Autumnal Woods
+biome=Meadow
+biome=Birch Forested Hills
+biome=Snowy Coniferous Forest
+biome=Lush Hills
+
+pathmaterial=pathdirt
+pathmaterial=pathgravel
+pathmaterial=pathslabs
+
+//starting buildings=
+centre=fort
+start=cattlefarm
+start=grove
+start=lumbermanhut
+start=quarry
+start=watchtower
+
+player=playersmallfield
+player=playersmallhouse
+player=playerlargefield
+player=playerlargehouse
+player=playerhugefield
+player=playerestate
+player=gifthouse
+
+//to be built in priority
+core=armoury
+core=carpenterhouse
+core=church
+core=farm
+core=grove
+core=guardhouse
+core=guardhouse
+core=lumbermanhut
+core=tavern
+core=watchtower
+
+//to be built after the core ones
+secondary=alchemyworkshop
+secondary=fountain
+secondary=glassblower
+secondary=guardhouse
+secondary=pigfarm
+secondary=presbytery
+secondary=quarry
+secondary=watchtower
+secondary=largeorchard
+
+//never for this type of village
+never=bakery
+never=forge
+never=largefountain
+never=sheepchickenfarm
+never=weaverhouse
+never=well
+never=smallorchard
+
+//Selling prices=
+sellingPrice=normanHelmet,8/0
+sellingPrice=normanplate,16/0
+sellingPrice=normanLegs,5/64
+sellingPrice=normanBoots,4/64
+sellingPrice=wool_white,13
+sellingPrice=wool_gray,15
+sellingPrice=wool_lightgray,15
+sellingPrice=wool_black,15
+sellingPrice=wool_brown,18
+
+buyingPrice=wool_white,11
+buyingPrice=wool_gray,13
+buyingPrice=wool_lightgray,13
+buyingPrice=wool_black,13
+buyingPrice=wool_brown,16
+
+//Millénaire Extended
+start=fonderie

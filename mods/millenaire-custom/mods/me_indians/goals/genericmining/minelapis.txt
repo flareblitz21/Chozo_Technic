@@ -1,0 +1,14 @@
+priority=26
+priorityrandom=10
+
+
+buildinglimit=dye_blue,16
+townhalllimit=dye_blue,32
+
+sourceblockstate=minecraft:stone
+
+loot=dye_blue,1
+
+sentencekey=mining
+
+range=4

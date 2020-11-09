@@ -1,0 +1,20 @@
+//Parameters for the building as a whole
+building.length=9
+building.width=17
+building.areatoclear=3
+building.buildingorientation=3
+building.icon=furplate
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=Smeltery
+initial.priority=800
+initial.male=inuit_tinkerer
+initial.female=inuit_wife
+initial.prioritymovein=15
+initial.shop=tinkerershop
+
+//Parameters for specific upgrades
+upgrade1.priority=80
+upgrade2.priority=75

@@ -1,0 +1,7 @@
+//*   Name of the villager types
+//*   Empty for the Normans in French since the original are already in French
+//* 
+//* 
+
+villager.bricoleur=Tinkerer
+shop.marchandises_de_bricoleur=Tinker's Materials

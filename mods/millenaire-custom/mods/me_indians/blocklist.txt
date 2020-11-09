@@ -1,0 +1,40 @@
+//name is only indicative
+//second is the block reference, third the meta value OR a value chain ("variant=oak" for example)
+//fourth whether it should be placed after the other blocks
+//fifth is colour like previously
+//then the price defined in three fields:
+//first either block or item reference (ex: minecraft:stone, minecraft:iron_ingot)
+//then if the previous field was block, optional value string (ex: variant=birch)
+//then the quantity
+//if those fields are not present, the block will cost itself
+
+//Minecraft
+dragonEgg;122;0;false;115/0/0
+goldore;minecraft:gold_ore;0;false;215/217/20
+ironore;minecraft:iron_ore;0;false;231/232/177
+coalore;minecraft:coal_ore;0;false;8/8/5
+
+//Tinker's Construct
+seared_bricks;tconstruct:seared;3;false;1/50/1
+smeltery_controller;tconstruct:smeltery_controller;0;false;1/50/2
+seared_tank;tconstruct:seared_tank;0;false;1/50/3;tconstruct:seared_tank;0;1
+smeltery_drain;tconstruct:smeltery_io;0;false;1/50/4
+faucet;tconstruct:faucet;0;true;1/50/5;
+castingchannel;tconstruct:channel;0;1/50/6
+casting_table;tconstruct:casting;0;false;1/50/7
+casting_basin;tconstruct:casting;1;false;1/50/8
+grout;tconstruct:soil;0;false;1/50/9
+smeltery_controllerWest;tconstruct:smeltery_controller;facing=west;false;1/50/10;tconstruct:smeltery_controller;facing=south;0
+smeltery_controllerEast;tconstruct:smeltery_controller;facing=east;false;1/50/11;tconstruct:smeltery_controller;facing=south;0
+smeltery_controllerSouth;tconstruct:smeltery_controller;facing=south;false;1/50/12;tconstruct:smeltery_controller;facing=south;0
+smeltery_controllerNorth;tconstruct:smeltery_controller;facing=north;false;1/50/13;tconstruct:smeltery_controller;facing=south;0
+smeltery_drainWest;tconstruct:smeltery_io;facing=west;false;1/50/14;tconstruct:smeltery_io;facing=south;0
+smeltery_drainEast;tconstruct:smeltery_io;facing=east;false;1/50/15;tconstruct:smeltery_io;facing=south;0
+smeltery_drainSouth;tconstruct:smeltery_io;facing=south;false;1/50/16;tconstruct:smeltery_io;facing=south;0
+smeltery_drainNorth;tconstruct:smeltery_io;facing=north;false;1/50/17;tconstruct:smeltery_io;facing=south;0
+faucetWest;tconstruct:faucet;facing=west;false;1/50/18;tconstruct:faucet;facing=south;0
+faucetEast;tconstruct:faucet;facing=east;false;1/50/19;tconstruct:faucet;facing=south;0
+faucetSouth;tconstruct:faucet;facing=south;false;1/50/20;tconstruct:faucet;facing=south;0
+faucetNorth;tconstruct:faucet;facing=north;false;1/50/21;tconstruct:faucet;facing=south;0
+cobaltore;tconstruct:ore;0;false;1/50/22
+arditeore;tconstruct:ore;1;false;1/50/23

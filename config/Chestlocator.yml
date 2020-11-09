@@ -1,0 +1,132 @@
+# ===--- Locator --------------------------------------------------------------------------------------------------=== #
+#
+#    Quickly locate containers
+#
+# ===------------------------------------------------------------------------------------------------ © Hexosse ---=== #
+
+
+# Container renderer
+containers:
+  enable: true
+  chest:
+    enable: true
+    short:
+      distance:
+        distance: 2.5
+      edge:
+        width: 1.0
+        color: '0x20_00_FF_00'
+    close:
+      distance:
+        distance: 8.5
+      edge:
+        width: 1.0
+        color: '0x40_00_FF_00'
+      face:
+        color: '0x10_00_CC_00'
+    far:
+      distance:
+        distance: 16.0
+      edge:
+        width: 1.0
+        color: '0x80_00_FF_00'
+      face:
+        color: '0x80_00_CC_00'
+  trappedChest:
+    enable: false
+    short:
+      distance:
+        distance: 2.5
+      edge:
+        width: 1.0
+        color: '0x20_FF_00_00'
+    close:
+      distance:
+        distance: 8.5
+      edge:
+        width: 1.0
+        color: '0x40_FF_00_00'
+      face:
+        color: '0x10_CC_00_00'
+    far:
+      distance:
+        distance: 16.0
+      edge:
+        width: 1.0
+        color: '0x80_FF_00_00'
+      face:
+        color: '0x80_CC_00_00'
+  enderChest:
+    enable: false
+    short:
+      distance:
+        distance: 2.5
+      edge:
+        width: 1.0
+        color: '0x20_00_00_FF'
+    close:
+      distance:
+        distance: 8.5
+      edge:
+        width: 1.0
+        color: '0x40_00_00_FF'
+      face:
+        color: '0x10_00_00_CC'
+    far:
+      distance:
+        distance: 16.0
+      edge:
+        width: 1.0
+        color: '0x80_00_00_FF'
+      face:
+        color: '0x80_00_00_CC'
+  mineCart:
+    enable: false
+    short:
+      distance:
+        distance: 2.5
+      edge:
+        width: 1.0
+        color: '0x20_00_FF_00'
+    close:
+      distance:
+        distance: 8.5
+      edge:
+        width: 1.0
+        color: '0x40_00_FF_00'
+      face:
+        color: '0x10_00_CC_00'
+    far:
+      distance:
+        distance: 16.0
+      edge:
+        width: 1.0
+        color: '0x80_00_FF_00'
+      face:
+        color: '0x80_00_CC_00'
+  shulkerBox:
+    enable: false
+    short:
+      distance:
+        distance: 2.5
+      edge:
+        width: 1.0
+        color: '0x20_CC_00_CC'
+    close:
+      distance:
+        distance: 8.5
+      edge:
+        width: 1.0
+        color: '0x40_CC_00_CC'
+      face:
+        color: '0x10_CC_00_CC'
+    far:
+      distance:
+        distance: 16.0
+      edge:
+        width: 1.0
+        color: '0x80_CC_00_CC'
+      face:
+        color: '0x80_CC_00_CC'
+
+enable: true

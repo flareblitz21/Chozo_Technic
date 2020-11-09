@@ -1,0 +1,12 @@
+priority=30
+priorityrandom=10
+
+sourceblockstate=minecraft:stone
+
+loot=gravel,1
+
+buildinglimit=gravel,32
+
+sentencekey=mining
+
+range=4

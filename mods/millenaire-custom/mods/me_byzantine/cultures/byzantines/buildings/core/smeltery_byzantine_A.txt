@@ -1,0 +1,25 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=13
+building.buildingorientation=2
+building.max=2
+building.mindistance=0.6
+building.icon=steelpickaxe
+
+
+//Parameters for initial construction
+initial.startlevel=-4
+initial.nativename=Chytírio
+initial.priority=1000
+initial.male=tinkerer_byzantine
+initial.female=wife_byzantine
+initial.shop=tinkerershop
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=95
+upgrade2.pathlevel=1
+
+upgrade3.priority=90
+

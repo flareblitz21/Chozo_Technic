@@ -1,3 +1,0 @@
-sells=mudbrick,sandstone,cobblestone,stone,ironnugget
-buys=ayran
-buysoptional=wood,steelPickaxe,steelShovel

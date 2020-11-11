@@ -1,3 +1,0 @@
-sells=steelaxe,steelhoe,steelpickaxe,steelshovel,stoneaxe,stonehoe,stonepickaxe,stoneshovel
-buys=cobblestone,iron,ironnugget
-buysoptional=ironore

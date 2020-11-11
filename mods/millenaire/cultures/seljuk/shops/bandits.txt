@@ -1,2 +1,0 @@
-buys=iron
-deliverto=cobblestone,wood,leather,iron,ironore

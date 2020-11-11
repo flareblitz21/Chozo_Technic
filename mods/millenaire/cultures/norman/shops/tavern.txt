@@ -1,3 +1,0 @@
-sells=cider,calva
-
-deliverto=cider,calva

@@ -1,3 +1,0 @@
-sells=cider,ciderapple
-
-deliverto=cider

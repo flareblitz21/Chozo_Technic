@@ -1,5 +1,0 @@
-sells=olives,oliveoil
-
-buys=olives
-
-deliverto=olives,oliveoil

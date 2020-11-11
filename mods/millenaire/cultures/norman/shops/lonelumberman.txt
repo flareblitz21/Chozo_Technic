@@ -1,3 +1,0 @@
-sells=wood,wood_birch
-
-buys=bread,normanAxe,normanShovel

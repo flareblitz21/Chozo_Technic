@@ -1,2 +1,0 @@
-//Indians don't eat beaf
-foodGrowthValue=beefcooked,0

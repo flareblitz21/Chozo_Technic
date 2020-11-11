@@ -1,2 +1,0 @@
-sells=yogurt,beefcooked,beefraw,leather,bone
-buys=wheat,ayran

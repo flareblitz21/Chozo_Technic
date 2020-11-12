@@ -1,3 +1,0 @@
-sells=ciderapple
-
-deliverto=ciderapple

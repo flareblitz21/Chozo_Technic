@@ -1,3 +1,0 @@
-sells=wood_pine,charcoal
-buys=winefancy,wood_pine,wood_acacia
-buysoptional=wood,wood_birch,wood_jungle,wood_darkoak

@@ -1,5 +1,0 @@
-sells=smooth_diorite,quartz,byzantine_tiles,byzantine_mosaic
-
-buys=diorite,brick
-
-buysoptional=smooth_diorite,bricks

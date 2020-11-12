@@ -1,3 +1,0 @@
-sells=leatherhelmet,leatherchest,leatherlegs,leatherboots,steelhelmet,steelchest,steellegs,steelboots,goldhelmet,goldchest,goldlegs,goldboots,diamondhelmet,diamondchest,diamondlegs,diamondboots,normanHelmet,normanplate,normanLegs,normanBoots,woodsword,stonesword,steelsword,goldsword,diamondsword,normanBroadsword,bow
-
-buys=leatherhelmet,leatherchest,leatherlegs,leatherboots,steelhelmet,steelchest,steellegs,steelboots,goldhelmet,goldchest,goldlegs,goldboots,diamondhelmet,diamondchest,diamondlegs,diamondboots,normanHelmet,normanplate,normanLegs,normanBoots,woodsword,stonesword,steelsword,goldsword,diamondsword,normanBroadsword,bow

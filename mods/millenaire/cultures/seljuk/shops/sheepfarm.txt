@@ -1,2 +1,0 @@
-sells=wool_white,mutton,leather,bone
-buys=wheat

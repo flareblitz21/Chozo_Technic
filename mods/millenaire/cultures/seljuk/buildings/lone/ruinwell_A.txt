@@ -1,7 +1,0 @@
-building.length=9
-building.width=9
-
-building.icon=sand
-
-initial.startlevel=-4
-initial.nativename=Yıkık Çeşme

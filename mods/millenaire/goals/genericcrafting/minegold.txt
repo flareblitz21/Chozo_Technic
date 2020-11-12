@@ -1,9 +1,0 @@
-buildingTag=goldmine
-priority=25
-duration=500
-
-heldItems=goldore
-
-output=goldnugget,1
-
-sound=stone

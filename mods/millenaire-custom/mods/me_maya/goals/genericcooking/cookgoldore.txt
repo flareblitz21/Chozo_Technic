@@ -1,0 +1,17 @@
+priority=90
+
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=cooking
+labelkey=cooking
+
+//The item to be cooked
+itemtocook=goldore
+
+//if more than that number of item is present in townhall, stop goal
+townhalllimit=gold,20
+buildinglimit=gold,20
+
+//Minimum number of items that can be added to a cooking
+minimumtocook=1
+
+helditems=goldore

@@ -1,0 +1,13 @@
+priority=30
+priorityrandom=10
+
+
+buildinglimit=clay,16
+
+sourceblockstate=minecraft:stone
+
+loot=clay,1
+
+sentencekey=mining
+
+range=4

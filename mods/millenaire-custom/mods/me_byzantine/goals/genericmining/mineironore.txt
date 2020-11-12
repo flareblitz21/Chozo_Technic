@@ -1,0 +1,14 @@
+priority=28
+priorityrandom=10
+
+
+buildinglimit=ironore,20
+townhalllimit=iron,40
+
+sourceblockstate=minecraft:stone
+
+loot=ironore,1
+
+sentencekey=mining
+
+range=4

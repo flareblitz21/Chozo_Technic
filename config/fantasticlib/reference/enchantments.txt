@@ -39,11 +39,11 @@ openblocks:last_stand
 openblocks:flim_flam
 endercore:autosmelt
 endercore:xpboost
-enderio:witherarrow
-enderio:witherweapon
+enderio:shimmer
 enderio:soulbound
 enderio:repellent
-enderio:shimmer
+enderio:witherweapon
+enderio:witherarrow
 gravestone-extended:gs_vampiric_touch
 gravestone-extended:gs_poisoned_blade
 gravestone-extended:gs_withered_blade
@@ -60,8 +60,6 @@ gravestone-extended:gs_starvation_curse
 gravestone-extended:gs_awkward_curse
 gravestone-extended:gs_broken_hook_curse
 matteroverdrive:overclock
-astralsorcery:enchantment.as.nightvision
-astralsorcery:enchantment.as.smelting
 cofhcore:holding
 cofhcore:insight
 cofhcore:leech
@@ -70,6 +68,8 @@ cofhcore:smashing
 cofhcore:smelting
 cofhcore:soulbound
 cofhcore:vorpal
+astralsorcery:enchantment.as.nightvision
+astralsorcery:enchantment.as.smelting
 cyclicmagic:enchantment.autosmelt
 cyclicmagic:enchantment.beheading
 cyclicmagic:enchantment.excavation

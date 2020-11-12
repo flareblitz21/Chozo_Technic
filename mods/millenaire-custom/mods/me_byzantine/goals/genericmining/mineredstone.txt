@@ -1,0 +1,14 @@
+priority=26
+priorityrandom=10
+
+
+buildinglimit=redstone,64
+townhalllimit=redstone,80
+
+sourceblockstate=minecraft:stone
+
+loot=redstone,1
+
+sentencekey=mining
+
+range=4

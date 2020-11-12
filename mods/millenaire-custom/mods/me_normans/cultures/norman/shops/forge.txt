@@ -1,0 +1,3 @@
+sells=seared_brick,seared_bricks,smeltery_controller,seared_tank,smeltery_drain,faucet,castingchannel,casting_table,casting_basin,normanAxe,normanPickaxe,normanShovel,normanHoe,iron,bronzeingot,steelingot,gold,cobaltingot,arditeingot,manyullyningot,knightslimeingot,pigironingot
+
+buys=seared_brick,seared_bricks,smeltery_controller,seared_tank,smeltery_drain,faucet,castingchannel,casting_table,casting_basin,normanAxe,normanPickaxe,normanShovel,normanHoe,iron,bronzeingot,steelingot,gold,cobaltingot,arditeingot,manyullyningot,knightslimeingot,pigironingot

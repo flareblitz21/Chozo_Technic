@@ -1,0 +1,14 @@
+priority=27
+priorityrandom=10
+
+
+buildinglimit=goldore,5
+townhalllimit=gold,10
+
+sourceblockstate=minecraft:stone
+
+loot=goldore,1
+
+sentencekey=mining
+
+range=4

@@ -12,8 +12,8 @@ actuallyadditions:jamguy
 actuallyadditions:engineer
 cyclicmagic:sage
 cyclicmagic:druid
-forestry:arborist
 forestry:apiarist
+forestry:arborist
 gravestone-extended:undertaker
 immersiveengineering:engineer
 extrautils2:alchemist

@@ -1,0 +1,18 @@
+{
+  "id": "Xeno_749,63,37",
+  "name": "Xeno",
+  "icon": "waypoint-normal.png",
+  "x": 749,
+  "y": 63,
+  "z": 37,
+  "r": 166,
+  "g": 20,
+  "b": 15,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

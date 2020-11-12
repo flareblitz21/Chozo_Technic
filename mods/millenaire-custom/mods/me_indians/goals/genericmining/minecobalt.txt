@@ -1,0 +1,14 @@
+priority=28
+priorityrandom=10
+
+
+buildinglimit=cobaltore,64
+townhalllimit=cobaltore,50
+
+sourceblockstate=minecraft:stone
+
+loot=cobaltore,1
+
+sentencekey=mining
+
+range=4

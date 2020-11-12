@@ -1,0 +1,189 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation
+
+//Minecraft
+bookshelves,200,50,8,16, 0,false,,0
+coal,10,4,0,80,8,false,,0
+gold,400,30,0,8,350,false,,0
+dye_blue,100,16,0,16,90,false,,0
+redstone,80,3,0,32,70,false,,0
+diamond,4096,50,0,4,3000,false,,0
+emerald,3000,45,0,2,98,false,,0
+quartz,20,6,0,16,18,false,,0
+leatherHelmet,22*5,50,0,0, 0,false,,0,tradehelp.genericweapon
+leatherChest,22*8,80,0,0, 0,false,,0,tradehelp.genericweapon
+leatherLegs,22*7,70,0,0, 0,false,,0,tradehelp.genericweapon
+leatherBoots,22*4,50,0,0, 0,false,,0,tradehelp.genericweapon
+steelHelmet,30*5,20*5,0,0,8*25,false,,0,tradehelp.genericweapon
+steelChest,30*8,20*8,0,0,10*25,false,,0,tradehelp.genericweapon
+steelLegs,30*7,20*7,0,0,9*25,false,,0,tradehelp.genericweapon
+steelBoots,30*4,20*4,0,0,6*25,false,,0,tradehelp.genericweapon
+goldhelmet,715,120,0,0,187,false,,0
+goldchest,1144,200,0,0,1360,false,,0
+goldlegs,1001,180,0,0,1309,false,,0
+goldboots,572,130,0,0,748,false,,0
+diamondHelmet,16000,300,0,0, 5*20*64,false,,0,tradehelp.genericweapon
+diamondChest,32000,500,0,0, 8*20*64,false,,0,tradehelp.genericweapon
+diamondLegs,28000,450,0,0, 7*20*64,false,,0,tradehelp.genericweapon
+diamondBoots,20000,325,0,0, 4*20*64,false,,0,tradehelp.genericweapon
+woodsword,2,1,0,0,5,false,,0
+stoneSword,3,2,0,0,0,false,,0,tradehelp.genericweapon
+steelSword,25*2,20*2,0,0,3*25,false,,0,tradehelp.genericweapon
+goldsword,810,60,0,0,0,false,,0
+diamondSword,8000,1000,0,0,0,false,,0,tradehelp.genericweapon
+bottle,5,3,16,64,0,false,,0,crafting
+netherwart,32,16,16,64,0,false,,0,crafting
+akwardpotion,48,24,16,64,0,false,,0,crafting
+glowstonedust,32,16,16,64,0,false,,0
+fermentedspidereye,64,32,32,64,50,false,,0
+gunpowder,16,8,32,64,10,false,,0
+dragonbreath,4096,2048,32,64,3000,false,,0
+sugar,6,3,32,64,4,false,,0
+rabbitfoot,64,32,32,64,40,false,,0
+glisteringmelonslice,64,32,32,64,50,false,,0
+spidereye,16,8,32,64,10,false,,0
+pufferfish,16,8,32,64,10,false,,0
+magmacream,64,32,32,64,50,false,,0
+goldencarrot,64,32,32,64,40,false,,0
+blazepowder,32,16,32,64,20,false,,0
+ghasttear,32,16,32,64,30,false,,0
+leather,20,10,16,64,25,false,,0
+
+//Tinker's Construct
+seared_brick,5,3,10,32,64,false,,0
+seared_bricks,20,17,32,64,22,false,,0
+smeltery_controller,40,35,0,0,43,false,,0
+seared_tank,42,36,0,0,45,false,,0
+smeltery_drain,30,21,0,0,32,false,,0
+faucet,15,8,0,0,17,false,,0
+castingchannel,16,9,0,0,18,false,,0
+casting_table,35,20,0,0,37,false,,0
+casting_basin,35,20,0,0,37,false,,0
+cobaltingot,3000,120,0,0,90,false,,0
+arditeingot,4000,140,0,0,90,false,,0
+manyullyningot,10000,400,0,0,180,false,,0
+knightslimeingot,60,50,0,0,55,false,,0
+pigironingot,58,47,0,0,52,false,,0
+beefjerky,30,15,32,64,20,false,,0
+grout,20,10,32,64,15,false,,0
+
+//Millenaire
+pathdirt,1,0,0,0,0,false,,0,construction
+pathsandstone,16,0,0,0,0,false,,0,construction
+wood,2,1,128,1024,3,false,,0,construction
+wood_pine,2,1,0,64,0,false,,0,construction
+wood_birch,2,1,0,64,0,false,,0,construction
+wood_jungle,2,1,0,64,0,false,,0,construction
+wood_acacia,2,1,0,64,0,false,,0,construction
+wood_darkoak,2,1,0,64,0,false,,0,construction
+wood_any,2,1,128,1024,0,false,,0,construction
+cobblestone,2,1,0,64,0,false,,0,construction
+stone,3,2,128,1024,0,false,,0,construction
+sandstone,6,4,64,1024,8,false,,0,construction
+redsandstone,6,4,64,1024,8,false,,0,construction
+
+sandstone_carved,16,12,128,1024,8,false,,0,construction
+red_sandstone_carved,16,12,128,1024,8,false,,0,construction
+ochre_sandstone_carved,20,16,128,1024,8,false,,0,construction
+
+wool_white,10,8,0,64,12,false,,0,construction
+cotton,3,2,0,64,12,false,,0,construction
+
+dye_lightblue,10,8,16,64,64,false,,0,crafting
+dye_red,6,5,16,64,16,false,,0,crafting
+
+carpet_white,10,8,16,64,16,false,,0,construction
+carpet_red,20,18,16,64,16,false,,0,construction
+carpet_blue,20,18,16,64,16,false,,0,construction
+
+bread,10,8,5,10,32,false,,0,foreigntrade
+egg,4,2,0,0,6,false,,0,agriculture
+chickenmeat,20,16,0,0,32,false,,0,agriculture
+chickenmeatcooked,28,20,0,0,48,false,,0,agriculture
+fishcooked,7,5,0,192,16,false,,0,foreigntrade
+wah,0,2*80,0,0,0,false,,0,foreigntrade
+masa,0,48,0,0,0,false,,0,foreigntrade
+udon,0,40,0,0,32,false,,0,foreigntrade
+ikayaki,0,2*80,0,0,0,false,,0,foreigntrade
+cooked_mutton,0,32,0,0,0,false,,0,foreigntrade
+souvlaki,0,2*80,0,0,0,false,,0,foreigntrade
+
+cake,0,64,0,0,128,false,,0,foreigntrade
+cookie,0,4,0,0,8,false,,0,foreigntrade
+feta,0,96,0,0,0,false,,0,foreigntrade
+cacauhaa,0,2*80,0,0,0,false,0,0,foreigntrade
+
+rasgulla,2*64,2*60,8,0,3*64,,,2*64*64,agriculture
+vegcurry,32,30,0,0,40,false,,0,agriculture
+chickencurry,2*64,2*60,0,0,3*64,false,,2*64*64,agriculture
+
+rice,32,28,0,128,48,false,,0,agriculture
+turmeric,64,60,0,64,90,false,,0,agriculture
+
+
+normanPickaxe,0,10*80,0,0,,,,0,foreigntrade
+normanAxe,0,10*80,0,0,,,,0,foreigntrade
+normanShovel,0,10*80,0,0,,,,0,foreigntrade
+normanHoe,0,10*80,0,0,,,,0,foreigntrade
+mayanpickaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
+
+
+bow,64,60,0,0,2*25,false,,0,weapons
+yumibow,0,7*64,0,0, 0,false,,0,foreigntrade
+tachisword,0,2*80,0,0, 0,false,,0,foreigntrade
+japaneseguardboots,0,96,0,0, 0,false,,0,foreigntrade
+japaneseguardHelmet,0,3*64,0,0, 0,false,,0,foreigntrade
+japaneseguardLegs,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseguardPlate,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseblueboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japanesebluehelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japanesebluelegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseblueplate,0,18*64,0,0, 0,false,,0,foreigntrade
+japaneseredboots,0,4*64,0,0, 0,false,,0,foreigntrade
+japaneseredhelmet,0,6*64,0,0, 0,false,,0,foreigntrade
+japaneseredlegs,0,12*64,0,0, 0,false,,0,foreigntrade
+japaneseredplate,0,18*64,0,0, 0,false,,0,foreigntrade
+mayanmace,0,7*64,0,0, 0,false,,0,foreigntrade
+normanBroadsword,0,64*80,0,0, 2*64*64,false,,0,foreigntrade
+normanHelmet,0,10*80,0,0, 0,false,,0,foreigntrade
+normanplate,0,20*80,0,0, 0,false,,0,foreigntrade
+normanLegs,0,8*80,0,0, 0,false,,0,foreigntrade
+normanBoots,0,5*80,0,0, 0,false,,0,foreigntrade
+byzantineMace,0,64*64,0,0, 0,false,,0,foreigntrade
+byzantineHelmet,0,12*64,0,0, 0,false,,0,foreigntrade
+byzantinePlate,0,20*64,0,0, 0,false,,0,foreigntrade
+byzantineLegs,0,8*64,0,0, 0,false,,0,foreigntrade
+byzantineBoots,0,6*64,0,0, 0,false,,0,foreigntrade
+
+
+sugarcane,16,14,16,32,24,false,,0,agriculture
+
+cactus,16,0,0,0,16,false,,0,foreigntrade
+
+purse,32*64,0,0,0,0,true,,0,playeritem
+summoningwand,2*64*64,0,0,0,0,true,,0,playeritem
+
+mudbrick,4,3,0,2048,0,false,,0,construction
+paintedbrickwhite,6,5,0,2048,0,false,,0,construction
+decoratedbrickwhite,20,18,0,1024,0,false,,0,construction
+paintbucketwhite,4*64,0,0,0,0,false,,0,construction
+brickmould,64,0,0,0,0,true,,0,playeritem
+indianstatue,5*64,4*64,0,0,,,,2*64*64,construction
+
+woodenbars,6,5,0,64,0,false,,0,construction
+woodenbarsindian,64,60,0,64,0,false,,0,construction
+woodenbarsrosette,64,60,0,64,0,false,,0,construction
+
+thatch,12,8,128,512,,,,2*64*64,construction
+bed_straw,16,12,4,16,0,false,,0,construction
+bed_charpoy,64,58,4,16,0,false,,0,construction
+
+banner_white,64,58,4,16,0,false,,0,construction
+indpattern,64,0,0,0,0,true,,8192,crafting
+indpattern1,64,0,0,0,0,true,,8192,crafting
+indpattern2,64,0,0,0,0,true,,8192,crafting
+indpattern3,64,0,0,0,0,true,,8192,crafting
+indpattern4,64,0,0,0,0,true,,8192,crafting
+indpattern5,64,0,0,0,0,true,,8192,crafting

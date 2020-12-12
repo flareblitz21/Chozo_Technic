@@ -160,6 +160,7 @@ twilightforest:spooky_forest
 avp:acheron
 avp:vardabadlands
 avp:vardaforest
+mocreatures:wyvernbiome
 galacticraftcore:outer space
 galacticraftplanets:outer space 1
 galacticraftplanets:outer space 2

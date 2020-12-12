@@ -50,15 +50,6 @@ botania:emptiness
 botania:bloodthirst
 botania:allure
 botania:clear
-gravestone-extended:curse
-gravestone-extended:gs_purification_potion
-gravestone-extended:gs_rust_potion
-gravestone-extended:gs_bone_skin_potion
-gravestone-extended:gs_recall_potion
-gravestone-extended:gs_burning_potion
-gravestone-extended:gs_bleeding_potion
-gravestone-extended:gs_choke_potion
-gravestone-extended:gs_inferno_potion
 immersiveengineering:flammable
 immersiveengineering:slippery
 immersiveengineering:conductive
@@ -66,11 +57,6 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
-astralsorcery:potioncheatdeath
-astralsorcery:potionbleed
-astralsorcery:potionspellplague
-astralsorcery:potiondropmodifier
-astralsorcery:potiontimefreeze
 cyclicmagic:potion.magnet
 cyclicmagic:potion.ender
 cyclicmagic:potion.waterwalk

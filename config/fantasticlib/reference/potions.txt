@@ -57,6 +57,11 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
+astralsorcery:potioncheatdeath
+astralsorcery:potionbleed
+astralsorcery:potionspellplague
+astralsorcery:potiondropmodifier
+astralsorcery:potiontimefreeze
 cyclicmagic:potion.magnet
 cyclicmagic:potion.ender
 cyclicmagic:potion.waterwalk
@@ -68,6 +73,11 @@ cyclicmagic:potion.frostwalker
 cyclicmagic:potion.butter
 cyclicmagic:potion.stunned
 cyclicmagic:potion.saturation
+xat:enhanced
+xat:restorative
+xat:fairy
+xat:dwarf
+xat:titan
 extrautils2:effect.xu2.doom
 extrautils2:effect.xu2.gravity
 extrautils2:effect.xu2.second.chance

@@ -31,6 +31,7 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
+key_of.key.zoom:55:NONE
 key_Change Caster Focus:33:NONE
 key_Misc Caster Toggle:34:NONE
 key_ALT Key:56:NONE
@@ -72,19 +73,26 @@ key_pe.key.extra_function:46:NONE
 key_pe.key.fire_projectile:19:NONE
 key_pe.key.mode:34:NONE
 key_key.toggle_shaders:0:NONE
+key_MoCreatures Dive:44:NONE
+key_MoCreatures GUI:100:NONE
 key_key.xu2.searchforitems:20:NONE
-key_key.ftbutilities.nbt:49:ALT
-key_key.ftbutilities.trash:211:NONE
-key_key.ftbquests.quests:0:NONE
-key_key.ftbmoney.shop:0:NONE
+key_key.moreoverlays.lightoverlay.desc:65:NONE
+key_key.moreoverlays.chunkbounds.desc:67:NONE
 key_openblocks.keybind.vario_switch:47:NONE
 key_openblocks.keybind.vario_vol_up:0:NONE
 key_openblocks.keybind.vario_vol_down:0:NONE
 key_oreexcavation.key.excavate:41:NONE
 key_oreexcavation.key.shape:47:NONE
 key_psimisc.keybind:46:NONE
+key_key.xat.trinket_gui.desc:25:NONE
+key_key.xat.trinket_target.desc:25:NONE
+key_key.xat.trinket_toggle_effect.desc:43:NONE
+key_key.xat.magnet_toggle_effect.desc:43:NONE
+key_key.xat.aux_key.desc:29:NONE
 key_key.open_wct.desc:0:NONE
 key_key.cycle_magnet_mode.desc:0:NONE
+key_key.open_wft.desc:0:NONE
+key_key.open_wit.desc:0:NONE
 key_key.dismount:42:NONE
 key_key.narrator:48:CONTROL
 key_key.toggle_focus.desc:15:NONE
@@ -99,8 +107,14 @@ key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
 key_key.jei.bookmark:30:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_key.cofh.multimode:47:NONE
 key_bbw.key.mode:50:NONE
 key_bbw.key.fluidmode:33:NONE
+key_key.flash.desc:46:NONE
+key_key.activate.desc:45:NONE
+key_key.deactivate.desc:44:NONE
+key_key.hollow.desc:47:NONE
+key_key.stats.desc:48:NONE
 key_nei.options.keys.gui.botania_corporea_request:46:NONE
 key_mod.chiselsandbits.chiselmode.single:0:NONE
 key_mod.chiselsandbits.chiselmode.snap2:0:NONE
@@ -132,7 +146,6 @@ key_mod.chiselsandbits.other.redo:0:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:0:NONE
 key_key.clienttweaks.disable_step_assist:0:NONE
 key_key.clienttweaks.hide_offhand_item:0:NONE
-key_key.cofh.multimode:47:NONE
 key_key.craftingtweaks.rotate:0:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:0:NONE
 key_key.craftingtweaks.balance:0:NONE
@@ -161,6 +174,8 @@ key_key.cycleDigAOE:0:NONE
 key_key.cycleAttackAOE:0:NONE
 key_key.toggleShields:0:NONE
 key_key.overload:33:SHIFT
+key_key.toggleLiquids:38:NONE
+key_key.toggleVisible:0:NONE
 key_key.clipboardPaste:210:NONE
 key_key.refinedstorage.focusSearchBar:15:NONE
 key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
@@ -173,8 +188,6 @@ key_waila.keybind.wailadisplay:79:NONE
 key_waila.keybind.liquid:80:NONE
 key_waila.keybind.recipe:81:NONE
 key_waila.keybind.usage:75:NONE
-key_key.toggleLiquids:38:NONE
-key_key.toggleVisible:0:NONE
 key_Down key:29:NONE
 key_Inventory key:19:NONE
 key_Bomb Key:47:NONE
@@ -203,9 +216,8 @@ key_mekanism.key.armorMode:34:NONE
 key_mekanism.key.feetMode:35:NONE
 key_mekanism.key.voice:22:NONE
 key_invtweaks.key.sort:19:NONE
-key_key.menu:50:NONE
-key_key.villages:47:NONE
-key_key.escorts:34:NONE
+key_Mo' Bends Menu:34:NONE
+key_Refresh Animations:68:NONE
 key_key.immersiveengineering.magnetEquip:31:NONE
 key_key.immersiveengineering.chemthrowerSwitch:0:NONE
 key_Open Matter Scanner GUI:46:NONE

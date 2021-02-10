@@ -39,11 +39,11 @@ openblocks:last_stand
 openblocks:flim_flam
 endercore:xpboost
 endercore:autosmelt
+enderio:witherarrow
+enderio:witherweapon
 enderio:soulbound
 enderio:shimmer
 enderio:repellent
-enderio:witherweapon
-enderio:witherarrow
 matteroverdrive:overclock
 cofhcore:holding
 cofhcore:insight
@@ -53,6 +53,8 @@ cofhcore:smashing
 cofhcore:smelting
 cofhcore:soulbound
 cofhcore:vorpal
+astralsorcery:enchantment.as.nightvision
+astralsorcery:enchantment.as.smelting
 cyclicmagic:enchantment.autosmelt
 cyclicmagic:enchantment.beheading
 cyclicmagic:enchantment.excavation

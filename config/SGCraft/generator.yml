@@ -1,10 +1,4 @@
 worlds:
-    server start v2.0:
-    - FFV0UYS28
-    chozo server 2.1:
-    - 64M09C000
-    sever start 7.2:
-    - I454OTEJK
-    - OAP0Z9YGU
-    server start 7.3:
-    - 2AN944XG2
+    test:
+    - ZFXXO149G
+    - RFCQ9MQ65

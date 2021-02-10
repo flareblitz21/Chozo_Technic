@@ -17,6 +17,7 @@ construction_alloy                                (enderio:block_fluid_construct
 fierymetal                                        (twilightforest:molten_fierymetal)                                               = Molten Fiery
 knightmetal                                       (twilightforest:molten_knightmetal)                                              = Molten Knightmetal
 liquid_phazon                                     (mc4:liquid_phazon)                                                              = Liquid Phazon
+liquid_red_phazon                                 (mc4:liquid_red_phazon)                                                          = Liquid Red Phazon
 chozodian                                         (mc4:liquid_chozodian)                                                           = Molten Chozodian Compound
 chozodian_red                                     (mc4:liquid_red_chozodian)                                                       = Molten Red Chozodian Compound
 chozodian_orange                                  (mc4:liquid_orange_chozodian)                                                    = Molten Orange Chozodian Compound

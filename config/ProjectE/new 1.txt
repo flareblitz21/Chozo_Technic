@@ -1,0 +1,519 @@
+  "mc4:upgrade|0": 1400000,
+  "mc4:upgrade|1": 1470000,
+  "mc4:upgrade|2": 1470000,
+  "mc4:upgrade|3": 1600000,
+  "mc4:upgrade|4": 1600000,
+  "mc4:upgrade|5": 1600000,
+  "mc4:upgrade|6": 1600000,
+  "mc4:upgrade|8": 16000000,
+  "mc4:upgrade|9": 1400000,
+  "mc4:upgrade|11": 2000000,
+  "mc4:upgrade|10": 1600000,
+  "mc4:upgrade|12": 2000000,
+  "mc4:upgrade|13": 2000000,
+  "mc4:upgrade|14": 2800000,
+  "mc4:upgrade|15": 2800000,
+  "mc4:upgrade|16": 2800000,
+  "mc4:upgrade|17": 2800000,
+  "mc4:upgrade|18": 2800000,
+  "mc4:upgrade|23": 1400000,
+  "mc4:upgrade|54": 1600000,
+  "mc4:upgrade|19": 1600000,
+  "mc4:upgrade|20": 2000000,
+  "mc4:upgrade|21": 2000000,
+  "mc4:upgrade|22": 2000000,
+  "mc4:upgrade|24": 2800000,
+  "mc4:upgrade|25": 2800000,
+  "mc4:upgrade|26": 2800000,
+  "mc4:upgrade|27": 2800000,
+  "mc4:upgrade|28": 2800000,
+  "mc4:upgrade|29": 2800000,
+  "mc4:upgrade|30": 2800000,
+  "mc4:upgrade|35": 1400000,
+  "mc4:upgrade|36": 1400000,
+  "mc4:upgrade|37": 1400000,
+  "mc4:upgrade|38": 1400000,
+  "mc4:upgrade|40": 2000000,
+  "mc4:upgrade|41": 2000000,
+  "mc4:upgrade|42": 2000000,
+  "mc4:upgrade|43": 2000000,
+  "mc4:omni_upgrade|0": 200000000000000,
+  "mc4:upgrade|44": 2000000,
+  "mc4:upgrade|45": 2000000,
+  "mc4:upgrade|46": 2000000,
+  "mc4:upgrade|47": 2000000,
+  "mc4:upgrade|48": 20000000,
+  "mc4:upgrade|49": 2000000,
+  "mc4:upgrade|50": 20000000,
+  "mc4:upgrade|51": 20000000,
+  "mc4:upgrade_remover|0": 200,
+  "avp:medpod|0": 100,
+  "mysticalagriculture:crafting|5": 1000000,
+  "tconstruct:broadsword|2": 0,
+  "matteroverdrive:phaser_rifle|0": 100000,
+  "flansmod:l86|0": 100000,
+  "flansmod:sg550|0": 100000,
+  "flansmod:skorpion|0": 100000,
+  "flansmod:fmg|0": 100000,
+  "flansmod:g3ammo|0": 100000,
+  "flansmod:m14ammo|0": 100000,
+  "flansmod:m21ammo|0": 100000,
+  "flansmod:l96|0": 100000,
+  "flansmod:m1014|0": 100000,
+  "flansmod:m16a4ammo|0": 100000,
+  "flansmod:c4|0": 100000,
+  "flansmod:augammo|0": 100000,
+  "flansmod:fnscarammo|0": 100000,
+  "flansmod:m4carbineammo|0": 100000,
+  "flansmod:mtarammo|0": 100000,
+  "flansmod:g36ammo|0": 100000,
+  "flansmod:dragunovammo|0": 100000,
+  "flansmod:20mmammo|0": 100000,
+  "flansmod:s100|0": 100000,
+  "flansmod:m45quad|0": 100000,
+  "flansmod:flakvierling|0": 100000,
+  "flansmod:biplane|0": 10000,
+  "flansmod:humvee|0": 100000,
+  "flansmod:hellfire|0": 100000,
+  "flansmod:shell|0": 100000,
+  "flansmod:largebomb|0": 100000,
+  "flansmod:napalm|0": 100000,
+  "flansmod:heshell|0": 100000,
+  "flansmod:smallbomb|0": 100000,
+  "flansmod:blowtorch|0": 100000,
+  "flansmod:boforsammo|0": 100000,
+  "flansmod:sigp232|0": 100000,
+  "flansmod:barrett|0": 100000,
+  "flansmod:r700|0": 100000,
+  "flansmod:mtar|0": 100000,
+  "flansmod:ak47|0": 100000,
+  "avp: ammo.ar|0": 100000,
+  "flansmod:betacmag|0": 100000,
+  "flansmod:acrammo|0": 100000,
+  "flansmod:l96ammo|0": 100000,
+  "flansmod:chiron|0": 100000,
+  "flansmod:blackhawk|0": 100000,
+  "flansmod:abrams|0": 100000,
+  "flansmod:mim23ammo|0": 100000,
+  "flansmod:su25|0": 100000,
+  "flansmod:mk4rocket|0": 100000,
+  "flansmod:mim23|0": 100000,
+  "flansmod:chinook|0": 100000,
+  "flansmod:trigat|0": 100000,
+  "avp:royaljelly|0": 1000
+  {
+  "entries": [
+    {
+      "item": "mc4:upgrade|0",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|1",
+      "emc": 1470000
+    },
+    {
+      "item": "mc4:upgrade|2",
+      "emc": 1470000
+    },
+    {
+      "item": "mc4:upgrade|3",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|4",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|5",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|6",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|8",
+      "emc": 16000000
+    },
+    {
+      "item": "mc4:upgrade|9",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|11",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|10",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|12",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|13",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|14",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|15",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|16",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|17",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|18",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|23",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|54",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|19",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|20",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|21",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|22",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|24",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|25",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|26",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|27",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|28",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|29",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|30",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|35",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|36",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|37",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|38",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|40",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|41",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|42",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|43",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:omni_upgrade|0",
+      "emc": 200000000000000
+    },
+    {
+      "item": "mc4:upgrade|44",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|45",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|46",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|47",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|48",
+      "emc": 20000000
+    },
+    {
+      "item": "mc4:upgrade|49",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|50",
+      "emc": 20000000
+    },
+    {
+      "item": "mc4:upgrade|51",
+      "emc": 20000000
+    },
+    {
+      "item": "mc4:upgrade_remover|0",
+      "emc": 200
+    },
+    {
+      "item": "avp:medpod|0",
+      "emc": 100
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 1000000
+    },
+    {
+      "item": "tconstruct:broadsword|2",
+      "emc": 0
+    },
+    {
+      "item": "matteroverdrive:phaser_rifle|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:l86|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:sg550|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:skorpion|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:fmg|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:g3ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:m14ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:m21ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:l96|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:m1014|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:m16a4ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:c4|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:augammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:fnscarammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:m4carbineammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:mtarammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:g36ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:dragunovammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:20mmammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:s100|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:m45quad|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:flakvierling|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:biplane|0",
+      "emc": 10000
+    },
+    {
+      "item": "flansmod:humvee|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:hellfire|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:shell|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:largebomb|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:napalm|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:heshell|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:smallbomb|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:blowtorch|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:boforsammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:sigp232|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:barrett|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:r700|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:mtar|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:ak47|0",
+      "emc": 100000
+    },
+    {
+      "item": "avp:ammo.ar|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:betacmag|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:acrammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:l96ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:chiron|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:blackhawk|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:abrams|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:mim23ammo|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:su25|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:mk4rocket|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:mim23|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:chinook|0",
+      "emc": 100000
+    },
+    {
+      "item": "flansmod:trigat|0",
+      "emc": 100000
+    },
+    {
+      "item": "avp:royaljelly|0",
+      "emc": 1000
+    }
+  ]
+}

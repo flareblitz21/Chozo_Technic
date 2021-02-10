@@ -160,6 +160,9 @@ twilightforest:spooky_forest
 avp:acheron
 avp:vardabadlands
 avp:vardaforest
+bleach_kd:hueco_mundo
+buildcraftenergy:oil_ocean
+buildcraftenergy:oil_desert
 mocreatures:wyvernbiome
 galacticraftcore:outer space
 galacticraftplanets:outer space 1

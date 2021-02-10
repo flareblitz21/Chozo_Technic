@@ -1,4 +1,380 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "mc4:upgrade|0",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|1",
+      "emc": 1470000
+    },
+    {
+      "item": "mc4:upgrade|2",
+      "emc": 1470000
+    },
+    {
+      "item": "mc4:upgrade|3",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|4",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|5",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|6",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|8",
+      "emc": 16000000
+    },
+    {
+      "item": "mc4:upgrade|9",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|11",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|10",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|12",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|13",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|14",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|15",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|16",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|17",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|18",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|23",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|54",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|19",
+      "emc": 1600000
+    },
+    {
+      "item": "mc4:upgrade|20",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|21",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|22",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|24",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|25",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|26",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|27",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|28",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|29",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|30",
+      "emc": 2800000
+    },
+    {
+      "item": "mc4:upgrade|35",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|36",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|37",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|38",
+      "emc": 1400000
+    },
+    {
+      "item": "mc4:upgrade|40",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|41",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|42",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|43",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:omni_upgrade|0",
+      "emc": 200000000000000
+    },
+    {
+      "item": "mc4:upgrade|44",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|45",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|46",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|47",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|48",
+      "emc": 20000000
+    },
+    {
+      "item": "mc4:upgrade|49",
+      "emc": 2000000
+    },
+    {
+      "item": "mc4:upgrade|50",
+      "emc": 20000000
+    },
+    {
+      "item": "mc4:upgrade|51",
+      "emc": 20000000
+    },
+    {
+      "item": "OD|dustBedrock",
+      "emc": 100
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 10
+    },
+    {
+      "item": "actuallyadditions:item_dust|4",
+      "emc": 100
+    },
+    {
+      "item": "enderio:item_material|32",
+      "emc": 100
+    },
+    {
+      "item": "ic2:dust|9",
+      "emc": 100
+    },
+    {
+      "item": "avp:royaljelly|0",
+      "emc": 100
+    },
+    {
+      "item": "avp:body.xeno|0",
+      "emc": 1000
+    },
+    {
+      "item": "avp:medpod|0",
+      "emc": 100
+    },
+    {
+      "item": "appliedenergistics2:sky_stone_block|0",
+      "emc": 100
+    },
+    {
+      "item": "appliedenergistics2:part|120",
+      "emc": 100
+    },
+    {
+      "item": "enderio:item_material|43",
+      "emc": 10000
+    },
+    {
+      "item": "minecraft:skull|2",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:skull|4",
+      "emc": 1000
+    },
+    {
+      "item": "minecraft:skull|5",
+      "emc": 1000
+    },
+    {
+      "item": "enderio:block_enderman_skull|0",
+      "emc": 1000
+    },
+    {
+      "item": "enderio:block_enderman_skull|2",
+      "emc": 1000
+    },
+    {
+      "item": "oreberries:essence_oreberry_bush|0",
+      "emc": 1000
+    },
+    {
+      "item": "mysticalagriculture:crafting|5",
+      "emc": 1000
+    },
+    {
+      "item": "tp:wub_gem|0",
+      "emc": 100
+    },
+    {
+      "item": "extrautils2:ingredients|0",
+      "emc": 100
+    },
+    {
+      "item": "appliedenergistics2:material|1",
+      "emc": 1000
+    },
+    {
+      "item": "chisel:limestone2|7",
+      "emc": 1
+    },
+    {
+      "item": "mocreatures:sharkteeth|0",
+      "emc": 1
+    },
+    {
+      "item": "chisel:marble2|7",
+      "emc": 10
+    },
+    {
+      "item": "oreberries:essence_oreberry|0",
+      "emc": 10
+    },
+    {
+      "item": "oreberries:tin_oreberry|0",
+      "emc": 10
+    },
+    {
+      "item": "actuallyadditions:item_flax_seed|0",
+      "emc": 1
+    },
+    {
+      "item": "mysticalagriculture:crafting|0",
+      "emc": 10
+    },
+    {
+      "item": "matteroverdrive:dilithium_crystal|0",
+      "emc": 10
+    },
+    {
+      "item": "sgcraft:naquadah|0",
+      "emc": 50
+    },
+    {
+      "item": "chisel:basalt2|7",
+      "emc": 5
+    },
+    {
+      "item": "enderore:dust_ender|0",
+      "emc": 25
+    },
+    {
+      "item": "minecraft:skull|0",
+      "emc": 25
+    },
+    {
+      "item": "botania:flower|0",
+      "emc": 1
+    },
+    {
+      "item": "immersiveengineering:seed|0",
+      "emc": 1
+    },
+    {
+      "item": "actuallyadditions:block_black_lotus|0",
+      "emc": 1
+    },
+    {
+      "item": "tp:raspberry_berry|0",
+      "emc": 1
+    },
+    {
+      "item": "enderio:item_material|33",
+      "emc": 10
+    },
+    {
+      "item": "actuallyadditions:item_dust|5",
+      "emc": 10
+    },
+    {
+      "item": "appliedenergistics2:material|2",
+      "emc": 10
+    },
+    {
+      "item": "appliedenergistics2:material|3",
+      "emc": 10
+    },
+    {
+      "item": "mc4:crafting_material|46",
+      "emc": 100
+    },
+    {
+      "item": "iceandfire:rotten_egg|0",
+      "emc": 10
+    },
+    {
+      "item": "mekanism:salt|0",
+      "emc": 12
+    },
+    {
+      "item": "mysticalagriculture:crafting|1",
+      "emc": 60
+    },
+    {
+      "item": "mysticalagriculture:master_infusion_crystal|0",
+      "emc": 200
+    }
+  ]
 }

@@ -241,9 +241,9 @@ thaumcraft:taintacletiny
 thaumcraft:taintswarm
 thaumcraft:taintseed
 thaumcraft:taintseedprime
-enderio:falling_machine
 enderio:primed_charge
 enderio:owl_egg
+enderio:falling_machine
 projecte:water_projectile
 projecte:lava_projectile
 projecte:mob_randomizer
@@ -619,14 +619,6 @@ iceandfire:dread_horse
 iceandfire:if_hydra
 iceandfire:hydra_breath
 iceandfire:hydra_arrow
-immersiverailroading:carfreight
-immersiverailroading:carpassenger
-immersiverailroading:cartank
-immersiverailroading:handcar
-immersiverailroading:locomotivediesel
-immersiverailroading:locomotivesteam
-immersiverailroading:tender
-universalmodcore:seat
 mekanism:obsidiantnt
 mekanism:robit
 mekanism:balloon
@@ -652,6 +644,7 @@ golems_thermal:golem_signalum_tf
 golems_thermal:golem_silver_tf
 golems_thermal:golem_steel_tf
 golems_thermal:golem_tin_tf
+universalmodcore:seat
 valkyrienskies:entity_mountable
 valkyrienskies:entity_mountable_chair
 mc4:power_bolt
@@ -710,9 +703,9 @@ flansmod:debugvector
 flansmod:debugdot
 thermaldynamics:transport
 p455w0rdslib:sitting_entity
+forestry:butterflyge
 forestry:cart.beehouse
 forestry:cart.apiary
-forestry:butterflyge
 opencomputers:drone
 galacticraftcore:evolved_spider
 galacticraftcore:evolved_zombie

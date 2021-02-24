@@ -40,10 +40,10 @@ openblocks:flim_flam
 endercore:autosmelt
 endercore:xpboost
 enderio:soulbound
-enderio:witherarrow
-enderio:repellent
 enderio:witherweapon
 enderio:shimmer
+enderio:repellent
+enderio:witherarrow
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
 matteroverdrive:overclock

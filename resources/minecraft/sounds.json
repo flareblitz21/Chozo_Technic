@@ -1,0 +1,58 @@
+{
+	"music.nether": {
+		"sounds": [{
+				"name": "music/game/nether/nether1",
+				"stream": true,
+				"volume": 0.5
+			},
+			{
+				"name": "music/game/nether/nether2",
+				"stream": true,
+				"volume": 0.5
+			},
+			{
+				"name": "music/game/nether/nether3",
+				"stream": true,
+				"volume": 0.5
+			},
+			{
+				"name": "music/game/nether/nether4",
+				"stream": true,
+				"volume": 0.5
+			}
+		]
+	},
+	"music.menu": {
+		"sounds": [{
+				"name": "music/menu/menu1",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu2",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu3",
+				"stream": true
+			},
+			{
+				"name": "music/menu/menu4",
+				"stream": true
+			}
+		]
+	},
+	"music.dragon": {
+		"sounds": [{
+			"name": "music/game/end/boss",
+			"stream": true,
+			"volume": 0.5
+		}]
+	},
+	"ui.button.click": {
+		"sounds": ["random/click"]
+	},
+	"hover": {
+		"sounds": ["random/hover"]
+
+	}
+}

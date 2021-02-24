@@ -160,7 +160,7 @@ twilightforest:spooky_forest
 avp:acheron
 avp:vardabadlands
 avp:vardaforest
-bleach_kd:hueco_mundo
+bleach_kd:hueco_mundo_base
 buildcraftenergy:oil_ocean
 buildcraftenergy:oil_desert
 mocreatures:wyvernbiome
@@ -180,9 +180,3 @@ mc4:sky_temple_grounds
 mc4:dark_agon_wastes
 mc4:dark_torvus_bog
 mc4:ing_hive
-flansmodapocalypse:deepcanyon_apocalypse
-flansmodapocalypse:canyon_apocalypse
-flansmodapocalypse:desert_apocalypse
-flansmodapocalypse:plateau_apocalypse
-flansmodapocalypse:highplateau_apocalypse
-flansmodapocalypse:sulphurpits_apocalypse

@@ -40,6 +40,7 @@ xu_enchanted_metal                                ([no block])                  
 xu_demonic_metal                                  ([no block])                                                                     = Molten Demon Metal
 dragonsteel_fire                                  (tconstruct:molten_dragonsteel_fire)                                             = Molten Fire Dragonsteel
 dragonsteel_ice                                   (tconstruct:molten_dragonsteel_ice)                                              = Molten Ice Dragonsteel
+constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan
 soulium                                           (mysticalagradditions:molten_soulium)                                            = Molten Soulium
 base_essence                                      (mysticalagradditions:molten_base_essence)                                       = Molten Base Essence
 inferium                                          (mysticalagradditions:molten_inferium)                                           = Molten Inferium
@@ -47,4 +48,3 @@ prudentium                                        (mysticalagradditions:molten_p
 intermedium                                       (mysticalagradditions:molten_intermedium)                                        = Molten Intermedium
 superium                                          (mysticalagradditions:molten_superium)                                           = Molten Superium
 supremium                                         (mysticalagradditions:molten_supremium)                                          = Molten Supremium
-constantan                                        (immersiveengineering:molten_constantan)                                         = Molten Constantan

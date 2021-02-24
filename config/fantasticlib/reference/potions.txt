@@ -57,6 +57,8 @@ immersiveengineering:sticky
 immersiveengineering:stunned
 immersiveengineering:concretefeet
 immersiveengineering:flashed
+immersiveintelligence:suppression
+immersiveintelligence:broken_armor
 astralsorcery:potioncheatdeath
 astralsorcery:potionbleed
 astralsorcery:potionspellplague

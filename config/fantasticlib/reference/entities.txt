@@ -241,9 +241,9 @@ thaumcraft:taintacletiny
 thaumcraft:taintswarm
 thaumcraft:taintseed
 thaumcraft:taintseedprime
-enderio:primed_charge
-enderio:owl_egg
 enderio:falling_machine
+enderio:owl_egg
+enderio:primed_charge
 projecte:water_projectile
 projecte:lava_projectile
 projecte:mob_randomizer
@@ -703,9 +703,9 @@ flansmod:debugvector
 flansmod:debugdot
 thermaldynamics:transport
 p455w0rdslib:sitting_entity
-forestry:butterflyge
 forestry:cart.beehouse
 forestry:cart.apiary
+forestry:butterflyge
 opencomputers:drone
 galacticraftcore:evolved_spider
 galacticraftcore:evolved_zombie

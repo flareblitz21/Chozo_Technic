@@ -25,19 +25,23 @@
 	"music.menu": {
 		"sounds": [{
 				"name": "music/menu/menu1",
-				"stream": true
+				"stream": true,
+				"volume": 0.3
 			},
 			{
 				"name": "music/menu/menu2",
-				"stream": true
+				"stream": true,
+				"volume": 0.3
 			},
 			{
 				"name": "music/menu/menu3",
-				"stream": true
+				"stream": true,
+				"volume": 0.3
 			},
 			{
 				"name": "music/menu/menu4",
-				"stream": true
+				"stream": true,
+				"volume": 0.3
 			}
 		]
 	},

@@ -31,6 +31,7 @@
             "posY" : 48,
             "width" : 200,
             "height" : 20,
+			"texture" : "chozotech:images/singleplayer.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -46,6 +47,7 @@
             "posY" : 72,
             "width" : 200,
             "height" : 20,
+			"texture" : "chozotech:images/multiplayer.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -61,6 +63,7 @@
             "posY" : 96,
             "width" : 200,
             "height" : 20,
+			"texture" : "chozotech:images/mods.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -76,6 +79,7 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
+			"texture" : "chozotech:images/options.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -91,6 +95,7 @@
             "posY" : 132,
             "width" : 98,
             "height" : 20,
+			"texture" : "chozotech:images/quit.png",
             "action" : 
             {
                 "type" : "quit"
@@ -105,6 +110,7 @@
             "posY" : 132,
             "width" : 20,
             "height" : 20,
+			"texture" : "chozotech:images/language.png",
             "action" : 
             {
                 "type" : "openGui",
@@ -120,7 +126,7 @@
             "posY" : 132,
             "width" : 20,
             "height" : 20,
-            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "texture" : "chozotech:images/refreshed.png",
             "action" : 
             {
                 "type" : "refresh"
@@ -162,10 +168,10 @@
         
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "images" : "chozotech:images/phazonbackgroundred.jpg",
             "animate" : true,
             "animationSpeed" : 1,
-            "blur" : true,
+            "blur" : false,
             "gradient" : true
         }
     }

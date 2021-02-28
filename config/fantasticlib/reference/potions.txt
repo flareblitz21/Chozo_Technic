@@ -59,6 +59,9 @@ immersiveengineering:concretefeet
 immersiveengineering:flashed
 immersiveintelligence:suppression
 immersiveintelligence:broken_armor
+abyssalcraft:cplague
+abyssalcraft:dplague
+abyssalcraft:antimatter
 astralsorcery:potioncheatdeath
 astralsorcery:potionbleed
 astralsorcery:potionspellplague

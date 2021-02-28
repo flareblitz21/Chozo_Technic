@@ -133,7 +133,6 @@ biomesoplenty:fungi_forest
 biomesoplenty:phantasmagoric_inferno
 biomesoplenty:undergarden
 biomesoplenty:visceral_heap
-appliedenergistics2:storage_biome
 thaumcraft:magical_forest
 thaumcraft:eerie
 thaumcraft:eldritch
@@ -157,6 +156,7 @@ twilightforest:dark_forest_center
 twilightforest:highlands_center
 twilightforest:thornlands
 twilightforest:spooky_forest
+appliedenergistics2:storage_biome
 avp:acheron
 avp:vardabadlands
 avp:vardaforest
@@ -180,3 +180,17 @@ mc4:sky_temple_grounds
 mc4:dark_agon_wastes
 mc4:dark_torvus_bog
 mc4:ing_hive
+abyssalcraft:darklands
+abyssalcraft:darklands_forest
+abyssalcraft:darklands_plains
+abyssalcraft:darklands_hills
+abyssalcraft:darklands_mountains
+abyssalcraft:coralium_infested_swamp
+abyssalcraft:abyssal_wastelands
+abyssalcraft:dreadlands
+abyssalcraft:purified_dreadlands
+abyssalcraft:dreadlands_forest
+abyssalcraft:dreadlands_mountains
+abyssalcraft:omothol
+abyssalcraft:dark_realm
+abyssalcraft:purged

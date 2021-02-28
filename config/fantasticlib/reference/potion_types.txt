@@ -50,6 +50,13 @@ xat:titan
 xat:extended_fairy
 xat:extended_dwarf
 xat:extended_titan
+abyssalcraft:cplague
+abyssalcraft:cplague_long
+abyssalcraft:dplague
+abyssalcraft:dplague_long
+abyssalcraft:dplague_strong
+abyssalcraft:antimatter
+abyssalcraft:antimatter_long
 cofhcore:haste
 cofhcore:haste+
 cofhcore:haste2

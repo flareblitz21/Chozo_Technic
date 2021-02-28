@@ -10,8 +10,8 @@ matteroverdrive:mad_scientist
 oreberries:tinker
 cyclicmagic:sage
 cyclicmagic:druid
-forestry:apiarist
 forestry:arborist
+forestry:apiarist
 immersiveengineering:engineer
 extrautils2:alchemist
 extrautils2:red_mechanic

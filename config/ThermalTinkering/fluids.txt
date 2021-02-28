@@ -85,6 +85,8 @@ desalted_crude_oil                                ([no block])                  
 tar                                               ([no block])                                                                     = Tar
 gasoline                                          (immersivepetroleum:fluid_gasoline)                                              = Gasoline
 kerosene                                          ([no block])                                                                     = Kerosene
+liquidcoralium                                    (abyssalcraft:cwater)                                                            = Liquid Coralium
+liquidantimatter                                  (abyssalcraft:antiwater)                                                         = Liquid Antimatter
 coal                                              ([no block])                                                                     = Liquifacted Coal
 refined_oil                                       ([no block])                                                                     = Naphtha
 refined_fuel                                      ([no block])                                                                     = Refined Fuel
@@ -126,6 +128,9 @@ construction_alloy                                (enderio:block_fluid_construct
 fierymetal                                        (twilightforest:molten_fierymetal)                                               = Molten Fiery
 knightmetal                                       (twilightforest:molten_knightmetal)                                              = Molten Knightmetal
 fiery_essence                                     (twilightforest:fiery_essence)                                                   = Fiery Essence
+moltenabyssalnite                                 (acintegration:moltenabyssalnite)                                                = Molten Abyssalnite
+moltenrefinedcoralium                             (acintegration:moltencoralium)                                                   = Molten Refined Coralium
+moltendreadium                                    (acintegration:moltendreadium)                                                   = Molten Dreadium
 blackgoo                                          (avp:blackgoo)                                                                   = fluid.blackGoo
 mist                                              (avp:mist)                                                                       = fluid.mist
 sand                                              (biomesoplenty:sand)                                                             = Quicksand

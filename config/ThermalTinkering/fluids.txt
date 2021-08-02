@@ -125,6 +125,8 @@ helium                                            ([no block])                  
 sulphuricacid                                     (galacticraftplanets:sulphuric_acid)                                             = Sulphuric Acid
 dragonsteel_fire                                  (tconstruct:molten_dragonsteel_fire)                                             = Molten Fire Dragonsteel
 dragonsteel_ice                                   (tconstruct:molten_dragonsteel_ice)                                              = Molten Ice Dragonsteel
+menrilresin                                       (integrateddynamics:block_menril_resin)                                          = Menril Resin
+liquidchorus                                      (integrateddynamics:block_liquid_chorus)                                         = Liquid Chorus
 deuterium                                         (nuclearcraft:fluid_deuterium)                                                   = Deuterium
 tritium                                           (nuclearcraft:fluid_tritium)                                                     = Tritium
 helium3                                           (nuclearcraft:fluid_helium3)                                                     = Helium-3

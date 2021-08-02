@@ -3981,6 +3981,15 @@ appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
 appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
 appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
 appliedenergistics2:facade:0, Cable Facade - Block of Sea Serpent Scales
+appliedenergistics2:facade:0, Cable Facade - Logic Programmer
+appliedenergistics2:facade:0, Cable Facade - Menril Wood
+appliedenergistics2:facade:0, Cable Facade - Enriched Menril Wood
+appliedenergistics2:facade:0, Cable Facade - Menril Leaves
+appliedenergistics2:facade:0, Cable Facade - Menril Wood Planks
+appliedenergistics2:facade:0, Cable Facade - Block of Crystalized Menril
+appliedenergistics2:facade:0, Cable Facade - Crystalized Menril Brick
+appliedenergistics2:facade:0, Cable Facade - Block of Crystalized Chorus
+appliedenergistics2:facade:0, Cable Facade - Crystalized Chorus Brick
 appliedenergistics2:facade:0, Cable Facade - Osmium Block
 appliedenergistics2:facade:0, Cable Facade - Bronze Block
 appliedenergistics2:facade:0, Cable Facade - Refined Obsidian
@@ -4678,6 +4687,8 @@ bleach_kd:fschool_bottom, Female School Bottom
 bleach_kd:school_shoes, item.school_shoes.name
 bleach_kd:soulchain, Soul Chain
 bleach_kd:ashido_armour, Ashido's Cloak
+bonsaitrees:bonsaipot:0, Bonsai Pot
+bonsaitrees:bonsaipot:1, Hopping Bonsai Pot
 mocreatures:kittybed_white, White Kitty Bed
 mocreatures:kittybed_orange, Orange Kitty Bed
 mocreatures:kittybed_magenta, Magenta Kitty Bed
@@ -4867,6 +4878,34 @@ mocreatures:moctallgrass:0, WyvernLair Tall Grass
 mocreatures:moctallgrass:1, OgreLair Tall Grass
 mocreatures:mocwoodplank:0, WyvernLair Wood Plank
 mocreatures:mocwoodplank:1, OgreLair Wood Plank
+dynamictrees:dendropotion:0, Biochar Base Potion
+dynamictrees:dendropotion:1, Potion of Depletion
+dynamictrees:dendropotion:2, Potion of Gigas
+dynamictrees:dendropotion:3, Potion of Burgeoning
+dynamictrees:dendropotion:4, Potion of Fertility
+dynamictrees:dendropotion:5, Potion of Persistance
+dynamictrees:dendropotion:6, Potion of Transformation
+dynamictrees:dirtbucket, Dirt Bucket
+dynamictrees:staff, Woodland Staff
+dynamictrees:appleseed, Apple Pip
+dynamictrees:oakbranch, Oak Tree
+dynamictrees:oakbranchx, tile.dynamictrees:oakbranchx.name
+dynamictrees:oakseed, Oak Acorn
+dynamictrees:sprucebranch, Spruce Tree
+dynamictrees:sprucebranchx, tile.dynamictrees:sprucebranchx.name
+dynamictrees:spruceseed, Spruce Cone
+dynamictrees:birchbranch, Birch Tree
+dynamictrees:birchseed, Birch Catkin
+dynamictrees:junglebranch, Jungle Tree
+dynamictrees:junglebranchx, tile.dynamictrees:junglebranchx.name
+dynamictrees:jungleseed, Jungle Pod
+dynamictrees:acaciabranch, Acacia Tree
+dynamictrees:acaciaseed, Acacia Seed
+dynamictrees:darkoakbranch, Dark Oak Tree
+dynamictrees:darkoakbranchx, tile.dynamictrees:darkoakbranchx.name
+dynamictrees:darkoakseed, Dark Oak Acorn
+dynamictrees:cactusbranch, Cactus
+dynamictrees:cactusseed, Cactus Seed
 endertanks:ender_tank:0, Ender Tank
 endertanks:ender_tank:0, Ender Tank
 endertanks:ender_tank:0, Ender Tank
@@ -5033,34 +5072,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:shard:0, Phazon Shard
 tconstruct:shard:0, Red Phazon Shard
 tconstruct:shard:0, Chozodian Compound Shard
@@ -6363,7 +6402,10 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -6486,62 +6528,62 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Axe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -7603,6 +7645,71 @@ iceandfire:troll_skull, Troll Skull
 iceandfire:amphithere_skull, Amphithere Skull
 iceandfire:seaserpent_skull, Sea Serpent Skull
 iceandfire:hydra_skull, Hydra Skull
+integrateddynamics:part_audio_reader_item, parttype.parttypes.integrateddynamics.audio_reader.name.name
+integrateddynamics:part_block_reader_item, parttype.parttypes.integrateddynamics.block_reader.name.name
+integrateddynamics:part_entity_reader_item, parttype.parttypes.integrateddynamics.entity_reader.name.name
+integrateddynamics:part_extradimensional_reader_item, parttype.parttypes.integrateddynamics.extradimensional_reader.name.name
+integrateddynamics:part_fluid_reader_item, parttype.parttypes.integrateddynamics.fluid_reader.name.name
+integrateddynamics:part_inventory_reader_item, parttype.parttypes.integrateddynamics.inventory_reader.name.name
+integrateddynamics:part_machine_reader_item, parttype.parttypes.integrateddynamics.machine_reader.name.name
+integrateddynamics:part_network_reader_item, parttype.parttypes.integrateddynamics.network_reader.name.name
+integrateddynamics:part_redstone_reader_item, parttype.parttypes.integrateddynamics.redstone_reader.name.name
+integrateddynamics:part_world_reader_item, parttype.parttypes.integrateddynamics.world_reader.name.name
+integrateddynamics:part_audio_writer_item, parttype.parttypes.integrateddynamics.audio_writer.name.name
+integrateddynamics:part_effect_writer_item, parttype.parttypes.integrateddynamics.effect_writer.name.name
+integrateddynamics:part_entity_writer_item, parttype.parttypes.integrateddynamics.entity_writer.name.name
+integrateddynamics:part_machine_writer_item, parttype.parttypes.integrateddynamics.machine_writer.name.name
+integrateddynamics:part_inventory_writer_item, parttype.parttypes.integrateddynamics.inventory_writer.name.name
+integrateddynamics:part_redstone_writer_item, parttype.parttypes.integrateddynamics.redstone_writer.name.name
+integrateddynamics:part_static_light_panel_item, parttype.parttypes.integrateddynamics.static_light_panel.name.name
+integrateddynamics:part_dynamic_light_panel_item, parttype.parttypes.integrateddynamics.dynamic_light_panel.name.name
+integrateddynamics:part_display_panel_item, parttype.parttypes.integrateddynamics.display_panel.name.name
+integrateddynamics:part_connector_mono_directional_item, parttype.parttypes.integrateddynamics.connector_mono_directional.name.name
+integrateddynamics:part_connector_omni_directional_item, parttype.parttypes.integrateddynamics.connector_omni_directional.name.name
+integrateddynamics:cable, Logic Cable
+integrateddynamics:variablestore:0, Variable Store
+integrateddynamics:logic_programmer:0, Logic Programmer
+integrateddynamics:energy_battery, Energy Battery
+integrateddynamics:creative_energy_battery, Creative Energy Battery
+integrateddynamics:coal_generator:0, Generator
+integrateddynamics:proxy:0, Proxy
+integrateddynamics:materializer:0, Materializer
+integrateddynamics:menril_log:0, Menril Wood
+integrateddynamics:menril_log_filled:0, Enriched Menril Wood
+integrateddynamics:menril_leaves:0, Menril Leaves
+integrateddynamics:menril_sapling:0, Menril Sapling
+integrateddynamics:menril_planks, Menril Wood Planks
+integrateddynamics:crystalized_menril_block, Block of Crystalized Menril
+integrateddynamics:crystalized_menril_brick, Crystalized Menril Brick
+integrateddynamics:block_menril_resin:0, Menril Resin
+integrateddynamics:drying_basin, Drying Basin
+integrateddynamics:squeezer:0, Squeezer
+integrateddynamics:menril_door, Menril Door
+integrateddynamics:menril_torch:0, Menril Torch
+integrateddynamics:menril_torch_stone:0, Menril Stone Torch
+integrateddynamics:menril_planks_stairs:0, Menril Wood Stairs
+integrateddynamics:crystalized_menril_block_stairs:0, Crystalized Menril Stairs
+integrateddynamics:crystalized_menril_brick_stairs:0, Crystalized Menril Brick Stairs
+integrateddynamics:delay:0, Delayer
+integrateddynamics:block_liquid_chorus:0, Liquid Chorus
+integrateddynamics:crystalized_chorus_block, Block of Crystalized Chorus
+integrateddynamics:crystalized_chorus_brick, Crystalized Chorus Brick
+integrateddynamics:crystalized_chorus_block_stairs:0, Crystalized Chorus Stairs
+integrateddynamics:crystalized_chorus_brick_stairs:0, Crystalized Chorus Brick Stairs
+integrateddynamics:mechanical_squeezer:0, Mechanical Squeezer
+integrateddynamics:mechanical_drying_basin:0, Mechanical Drying Basin
+integrateddynamics:wrench, Wrench
+integrateddynamics:variable, Variable Card
+integrateddynamics:labeller, Labeller
+integrateddynamics:facade, Facade
+integrateddynamics:crystalized_menril_chunk, Crystalized Menril Chunk
+integrateddynamics:variable_transformer:0, Output Variable Transformer
+integrateddynamics:variable_transformer:1, Input Variable Transformer
+integrateddynamics:menril_berries, Menril Berries
+integrateddynamics:portable_logic_programmer, Portable Logic Programmer
+integrateddynamics:on_the_dynamics_of_integration, On the Dynamics of Integration
+integrateddynamics:crystalized_chorus_chunk, Crystalized Chorus Chunk
+integrateddynamics:logic_director, Logic Director
 ironbackpacks:backpack:0, Basic Backpack
 ironbackpacks:backpack:0, Iron Backpack
 ironbackpacks:backpack:0, Iron Backpack
@@ -8272,22 +8379,6 @@ thermalconversion:cell0, Conversion Matrix
 thermalconversion:cell1, Thermal Cell
 thermalconversion:cell8, Thermal Pack X8
 thermalconversion:cell64, Thermal Pack X64
-thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
-thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
-thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
-thermalsolars:blocksolarpanel4, Tier 4 Solar Panel
-thermalsolars:blocksolarpanel5, Tier 5 Solar Panel
-thermalsolars:blocksolarpanel6, Tier 6 Solar Panel
-thermalsolars:blocksolarpanel101, Tier 1 Lunar Solar Panel
-thermalsolars:blocksolarpanel102, Tier 2 Lunar Solar Panel
-thermalsolars:blocksolarpanel103, Tier 3 Lunar Solar Panel
-thermalsolars:blocktitaniumore, Titanium Ore
-thermalsolars:blocklunarorenether, Lunar Ore
-thermalsolars:blockenderoreend, Ender Ore
-thermalsolars:blockenderpanel, Ender Modular Solar Panel
-thermalsolars:blocktitaniumblock, Titanium Block
-thermalsolars:blocklunarblock, Lunar Block
-thermalsolars:blockenderblock, Ender Block
 thermalsolars:itemtitaniumglassplate, Titanium Glass Plate
 thermalsolars:itemtitaniumdust, Titanium Dust
 thermalsolars:itemtitaniumsolarcell, Titanium Solar Cell
@@ -8331,6 +8422,22 @@ thermalsolars:itemenderhammer, Ender Hammer
 thermalsolars:itemtitaniumexcavator, Titanium Excavator
 thermalsolars:itemlunarexcavator, Lunar Excavator
 thermalsolars:itemenderexcavator, Ender Excavator
+thermalsolars:blocksolarpanel1, Tier 1 Solar Panel
+thermalsolars:blocksolarpanel2, Tier 2 Solar Panel
+thermalsolars:blocksolarpanel3, Tier 3 Solar Panel
+thermalsolars:blocksolarpanel4, Tier 4 Solar Panel
+thermalsolars:blocksolarpanel5, Tier 5 Solar Panel
+thermalsolars:blocksolarpanel6, Tier 6 Solar Panel
+thermalsolars:blocksolarpanel101, Tier 1 Lunar Solar Panel
+thermalsolars:blocksolarpanel102, Tier 2 Lunar Solar Panel
+thermalsolars:blocksolarpanel103, Tier 3 Lunar Solar Panel
+thermalsolars:blocktitaniumore, Titanium Ore
+thermalsolars:blocklunarorenether, Lunar Ore
+thermalsolars:blockenderoreend, Ender Ore
+thermalsolars:blockenderpanel, Ender Modular Solar Panel
+thermalsolars:blocktitaniumblock, Titanium Block
+thermalsolars:blocklunarblock, Lunar Block
+thermalsolars:blockenderblock, Ender Block
 tweakergui:recipe_maker, Redipe Maker
 zerocore:debugtool, Debug Tool
 mc4:crafting_material:0, Coal Dust
